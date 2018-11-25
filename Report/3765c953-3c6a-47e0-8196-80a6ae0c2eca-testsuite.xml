@@ -1,10 +1,10 @@
-<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1543122249059" stop="1543122249059">
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1543130699088" stop="1543130699088">
   <description>This is the tests collection phase. Failures are modules that failed to collect.</description>
   <name>test_collection_phase</name>
   <title>Collection phase</title>
   <labels/>
   <test-cases>
-    <test-case start="1543122249059" status="broken" stop="1543122249059">
+    <test-case start="1543130699088" status="broken" stop="1543130699088">
       <name>test_login</name>
       <failure>
         <message>failed</message>
